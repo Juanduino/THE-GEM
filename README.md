@@ -7,6 +7,10 @@
  
  One controller can inject current into 4 seperate channels of up to 6 amp per channel. Furthermore there is a 5th WHITE LED channel, with a MOSFET on the lamp, which is controlled by the MCU. Each WHITE LED is driven @350mA x 6 LED´s per board = 2.1 amp.
  
+ Each red channel is driven @MAX 1500mA, so 3 red amp per GEM. The Blues is driven @MAX 2000mA, which equals a total of (3red + 4blue + 2.1white = 9.1 AMP) x 3 boards per controller = 27.3 AMP @MAX
+ 
+ Two controllers will run of a 12v 500-600watt PSU (Powersupply). Many have old PSU´s sitting in computers, which typically have a 500watt capasity.
+ 
  The goal of the project is to make a smart plant grow light, which controls the light intensity based on temperature sensor input.
  
  By making the lamp output pwm and temperature controlled, the final capacity of the lamp depends on the amount of cooling applied.
