@@ -3,7 +3,7 @@
  
  This is a PAR light project based on the high-current controller M4SUBDRV (https://github.com/Juanduino/THE-DIMMER_M4SDRV_V1)
  
- The CREE LED´s is one of the most advanced horticultural light emitters on the market. They have a huge umol/w output. (Source: https://www.cree.com/led-components/media/documents/CreeXLampHorticultureFeatureSheet.pdf)
+ The CREE XLAMP LED´s is one of the most advanced horticultural light emitters on the market. They have a huge umol/w output. (Source: https://www.cree.com/led-components/media/documents/CreeXLampHorticultureFeatureSheet.pdf)
  
  One controller can inject current into 4 seperate channels of up to 6 amp per channel. Furthermore there is a 5th WHITE LED channel, with a MOSFET on the lamp, which is controlled by the MCU. Each WHITE LED is driven @350mA x 6 LED´s per board = 2.1 amp.
  
