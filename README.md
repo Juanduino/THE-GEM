@@ -14,4 +14,4 @@
  Becouse the controller can be connected to a CAN (Controller Area Network) and USB, you can monitor and control each string/color (Red, Blue, White)
 
  
- ![TOP](https://github.com/Juanduino/THE-GEM/blob/master/Images/TOP.PNG)
+ ![TOP](https://github.com/Juanduino/THE-GEM/blob/main/Images/TOP.PNG)
