@@ -11,7 +11,7 @@
  
  The boards is designed, so that they can be put in a line. That is, the 3 boards will be parrallel connected and is internally routed to withstand the needed current flow.
  
- Two controllers will run of a 12v 500-600watt PSU (Powersupply). Many have old PSU´s sitting in computers, which typically have a 500watt capasity.
+ Two controllers (6 lamps) will run of a 12v 500-600watt PSU (Powersupply). Many have old PSU´s sitting in computers, which typically have a 500watt capasity.
  
  The goal of the project is to make a smart plant grow light, which controls the light intensity based on temperature sensor input.
  
