@@ -9,7 +9,7 @@
  
  Each red string is driven @MAX 1500mA, so 3 red amp per GEM. The Blues is driven @MAX 2000mA, which equals a total of (3red + 4blue + 2.1white = 9.1 AMP) x 3 boards per controller = 27.3 AMP @MAX.
  
- The boards is designed, so that they can be put in a line. That is, the 3 boards will be parrallel connected and is itnernally routed to withstand the needed current flow.
+ The boards is designed, so that they can be put in a line. That is, the 3 boards will be parrallel connected and is internally routed to withstand the needed current flow.
  
  Two controllers will run of a 12v 500-600watt PSU (Powersupply). Many have old PSU´s sitting in computers, which typically have a 500watt capasity.
  
