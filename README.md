@@ -15,7 +15,7 @@
  
  The goal of the project is to make a smart plant grow light, which controls the light intensity based on temperature sensor input.
  
- By making the lamp output pwm and temperature controlled, the final capacity of the lamp depends on the amount of cooling applied.
+ By making the lamp output pwm and temperature controlled, the final capacity of the lamp depends on the amount of cooling applied or the amount of heat allowed.
  
  Because the controller can be connected to a CAN (Controller Area Network) and USB, you can monitor and control each string/color (Red, Blue, White)
 
