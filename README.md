@@ -21,3 +21,8 @@
 
  
  ![TOP](https://github.com/Juanduino/THE-GEM/blob/main/Images/TOP.PNG)
+ 
+ HEAT CIRCULATION
+Allthough LED´s has become more efficiant then the old gas-type grow bulbs, when driving the LED´s with high currents, there will be gennerated heat. How to re-cirkel and use that energy, is a mayor task.
+Case: Imagine a part of your livingspace, where you can grow greens all year round, and at the same time use the heat-output to heap up your space. This could especially be benifis families in developing contries, where this type of technology, not only can provide foot all year, but also expand the outdoor season by starting sprouts indoor, in a controlled invironment, before they are ready to be planted out.
+Another mayer benifit by utilising the radiated heat, is the possibility to fully heat your livingspace with green energy. Less forresting for wood to burn. Less Co2 emittions from NOT BURNING WOOD or other carbon-based energy sources.
