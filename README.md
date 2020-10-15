@@ -26,7 +26,7 @@
  
 Although LED´s have become more efficient than the old gas-type bulbs, when driving the LED´s with high currents, there will be generated heat. How to re-cirkel and use that energy is a major task.
 
-Case: Imagine a part of your living space, where you can grow greens all year round, and at the same time use the heat-output to heap up your space. This could especially be benefit families in developing countries, where this type of technology, not only can provide food all year, but also expand the outdoor season by starting sprouts indoor, in a controlled environment, before they are ready to be planted out. 
+Case: Imagine a part of your living space, where you can grow greens all year round, and at the same time use the heat-output to heap up your space. This could especially benefit families in developing countries, where this type of technology, not only can provide food all year, but also expand the outdoor season by starting sprouts indoor, in a controlled environment, before they are ready to be planted out. 
 
 Another mayer benefit by utilising the radiated heat, is the possibility to fully heat your living space with green energy. This means less foresting for wood to burn. Less Co2 emissions from NOT BURNING WOOD or other carbon-based energy sources. Naturally all this requires a solid environmentally friendly energy infrastructure.
 
