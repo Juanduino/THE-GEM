@@ -23,6 +23,7 @@
  ![TOP](https://github.com/Juanduino/THE-GEM/blob/main/Images/TOP.PNG)
  
  HEAT CIRCULATION
+ 
 Although LED´s have become more efficient than the old gas-type bulbs, when driving the LED´s with high currents, there will be generated heat. How to re-cirkel and use that energy is a major task.
 
 Case: Imagine a part of your living space, where you can grow greens all year round, and at the same time use the heat-output to heap up your space. This could especially be benefit families in developing countries, where this type of technology, not only can provide food all year, but also expand the outdoor season by starting sprouts indoor, in a controlled environment, before they are ready to be planted out. 
