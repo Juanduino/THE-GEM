@@ -5,9 +5,9 @@
  
  The CREE XLAMP LED´s is one of the most advanced horticultural light emitters on the market. They have a huge µmol/watt output. (Source: https://www.cree.com/led-components/media/documents/CreeXLampHorticultureFeatureSheet.pdf)
  
- One controller can inject current into 4 seperate channels of up to 6 amp per channel. Furthermore there is a 5th WHITE LED channel, with a MOSFET on the lamp, which is controlled by the MCU. Each WHITE LED is driven @350mA x 6 LED´s per board = 2.1 amp.
+ One controller can inject current into 4 seperate channels of up to 6 amp per channel. Furthermore there is a 5th WHITE LED channel, with a MOSFET on the lamp, which is controlled by the MCU. Each WHITE LED is driven @2000mA (MAX) x 6 LED´s per board @12v = 4 amp. (note: The white LED´s heats up faster compared to red´s and blues. 700mA per string (3 LED´s) is more realistic.
  
- Each red string is driven @MAX 1500mA, so 3 red amp per GEM. The Blues is driven @MAX 2000mA, which equals a total of (3red + 4blue + 2.1white = 9.1 AMP) x 3 boards per controller = 27.3 AMP @MAX.
+ Each red string is driven @MAX 1500mA, so 3 red amp per GEM. The Blues is driven @MAX 2000mA, which equals a total of (3red + 4blue + 1.4white = 8.4 AMP) x 3 boards per controller = 25,2 AMP @MAX. (approx. 300watt) 
  
  The boards is designed, so that they can be put in a line. That is, the 3 boards will be parrallel connected and is internally routed to withstand the needed current flow.
  
@@ -31,3 +31,7 @@ Case: Imagine a part of your living space, where you can grow greens all year ro
 Another mayer benefit by utilising the radiated heat, is the possibility to fully heat your living space with green energy. This means less foresting for wood to burn. Less Co2 emissions from NOT BURNING WOOD or other carbon-based energy sources. Naturally all this requires a solid environmentally friendly energy infrastructure.
 
 By introducing CAN (Controller Area Network) to the "intelligent" GEM/lamps, and possibly wireless connections, there are many possibilities to make smart solutions for re-circulation of the heat-output.
+
+![x4](https://github.com/Juanduino/THE-GEM/blob/main/Images/x4.PNG)
+
+A larger version, without the possibility or need to connect smaller Gem´s. approx 400w (MAX) 
