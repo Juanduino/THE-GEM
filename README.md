@@ -53,11 +53,11 @@ For office invironment the fully white GEM would be more pleasant for the  humaa
 Inside the lamp another 3 eg. 60mm fans can be mounted. This all  depennds on the enclosure design. The fans will be controlled by a common PWM puls.
 
 
- ![TOP](https://github.com/Juanduino/THE-GEM/blob/main/Images/perspectve.PNG)
+ ![perspectve](https://github.com/Juanduino/THE-GEM/blob/main/Images/perspectve.PNG)
  
  To connect a 120mm fan as the front cooller,  you need the adabtor 3D print  file.
  
-  ![TOP](https://github.com/Juanduino/THE-GEM/blob/main/Images/adaptor.jpg)
+  ![Adaptor](https://github.com/Juanduino/THE-GEM/blob/main/Images/adaptor.jpg)
 
 
 
