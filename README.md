@@ -42,7 +42,7 @@ A larger version, without the possibility or need to connect smaller Gem´s. app
  
  My Focus is now the 400watt lamp and to cut down on complexity.
  
- Have decided agains the 5th LED channel. The white LED´s will be mounted on a fully white and bright GEM. The GemX4 is still 98 very intens LED´s, so the reeason is also based on a considoration for the final BOM count.
+ Have decided agains the 5th LED channel. The white LED´s will be mounted on a fully white and bright GEM. The GemX4 is still 98 very intens LED´s, so the reeason is also based on a considoration for the final BOM count and the fans current consomption.
 
 Added 4 4pin PWM FAN plug headers. One is for the outtside end-fan, which sits just before the controller and therefore cools the conttroller alswell.
 
