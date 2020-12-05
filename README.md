@@ -48,6 +48,8 @@ White LED´s use energy to lite up the full visibly spectrum. The Red and Blue o
 
 Added 4 4pin PWM FAN plug headers. One is for the outtside end-fan, which sits just before the controller and therefore cools the conttroller alswell.
 
+For office invironment the fully white GEM would be more pleasant for the  humaan eye.  In a school schenario the lamps would  be part of  photon to plant  growth processes. 
+
 Inside the lamp another 3 eg. 60mm fans can be mounted. This all  depennds on the enclosure design. The fans will be controlled by a common PWM puls.
 
 
