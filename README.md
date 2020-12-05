@@ -61,6 +61,8 @@ Inside the lamp another 3 eg. 60mm fans can be mounted. This all  depennds on th
  
  To add wireless com. you need a Bluetooth / Wify or NB add-onn module on the I2C or SPI bus.
  
+ (Controller: https://github.com/Juanduino/THE-DIMMER_M4SDRV_V1)
+ 
   ![Adaptor](https://github.com/Juanduino/THE-GEM/blob/main/Images/adaptor.jpg)
   
    ![Enclosure](https://github.com/Juanduino/THE-GEM/blob/main/Images/GEM_enclosure_OpenLight.jpg)
