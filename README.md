@@ -59,7 +59,7 @@ Inside the lamp another 3 eg. 60mm fans can be mounted. This all  depennds on th
  
   ![Adaptor](https://github.com/Juanduino/THE-GEM/blob/main/Images/adaptor.jpg)
   
-    ![Adaptor](https://github.com/Juanduino/THE-GEM/blob/main/Images/GEM_enclosure_OpenLight.jpg)
+   ![Enclosure](https://github.com/Juanduino/THE-GEM/blob/main/Images/GEM_enclosure_OpenLight.jpg)
 
 
 
