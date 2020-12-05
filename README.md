@@ -38,7 +38,7 @@ A larger version, without the possibility or need to connect smaller Gem´s. app
 
  ![TOP](https://github.com/Juanduino/THE-GEM/blob/main/Images/GemX4_back.PNG)
  
- Chageelog:
+ Changelog:
  
  My Focus is now the 400watt lamp and to cut down on complexity.
  
