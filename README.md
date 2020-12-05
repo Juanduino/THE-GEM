@@ -59,6 +59,8 @@ Inside the lamp another 3 eg. 60mm fans can be mounted. This all  depennds on th
  
  As seen in above image, the power cables can be solderen in  by using the  split&twist tech.
  
+ To add wireless com. you need a Bluetooth / Wify or NB add-onn module on the I2C or SPI bus.
+ 
   ![Adaptor](https://github.com/Juanduino/THE-GEM/blob/main/Images/adaptor.jpg)
   
    ![Enclosure](https://github.com/Juanduino/THE-GEM/blob/main/Images/GEM_enclosure_OpenLight.jpg)
