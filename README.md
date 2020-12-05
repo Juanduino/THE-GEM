@@ -57,7 +57,7 @@ Inside the lamp another 3 eg. 60mm fans can be mounted. This all  depennds on th
  
  To connect a 120mm fan as the front cooller,  you need the adabtor 3D print  file.
  
-  ![TOP](https://github.com/Juanduino/THE-GEM/blob/main/Images/adaptor.PNG)
+  ![TOP](https://github.com/Juanduino/THE-GEM/blob/main/Images/adaptor.jpg)
 
 
 
