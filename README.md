@@ -32,6 +32,8 @@ Another mayer benefit by utilising the radiated heat, is the possibility to full
 
 By introducing CAN (Controller Area Network) to the "intelligent" GEM/lamps, and possibly wireless connections, there are many possibilities to make smart solutions for re-circulation of the heat-output.
 
-![x4](https://github.com/Juanduino/THE-GEM/blob/main/Images/x4.PNG)
+![x4](https://github.com/Juanduino/THE-GEM/blob/main/Images/GemX4_top.PNG)
 
 A larger version, without the possibility or need to connect smaller Gem´s. approx 400w (MAX) 
+
+ ![TOP](https://github.com/Juanduino/THE-GEM/blob/main/Images/GemX4_back.PNG)
