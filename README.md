@@ -47,3 +47,6 @@ A larger version, without the possibility or need to connect smaller Gem´s. app
 Added 4 4pin PWM FAN plug headers. One is for the outtside end-fan, which sits just before the controller and therefore cools the conttroller alswell.
 
 Inside the lamp another 3 eg. 60mm fans can be mounted. This all  depennds on the enclosure design. The fans will be controlled by a common PWM puls.
+
+
+ ![TOP](https://github.com/Juanduino/THE-GEM/blob/main/Images/perspectve.PNG)
