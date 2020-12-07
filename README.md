@@ -19,7 +19,7 @@
  
  The CREE XLAMP LED´s is one of the most advanced horticultural light emitters on the market. They have a huge µmol/watt output. (Source: https://www.cree.com/led-components/media/documents/CreeXLampHorticultureFeatureSheet.pdf)
  
- One controller can inject current into 4 seperate channels of up to 6 amp per channel. Furthermore there is a 5th WHITE LED channel, with a MOSFET on the lamp, which is controlled by the MCU. Each WHITE LED is driven @2000mA (MAX) x 6 LED´s per board @12v = 4 amp. (note: The white LED´s heats up faster compared to red´s and blues. 700mA per string (3 LED´s) is more realistic.
+ One controller can inject current into 4 seperate channels of up to 8 amp per channel.  (note: The white LED´s heats up faster compared to red´s and blues.)
  
  Each red string is driven @MAX 1500mA, so 3 red amp per GEM. The Blues is driven @MAX 2000mA, which equals a total of (3red + 4blue + 1.4white = 8.4 AMP) x 3 boards per controller = 25,2 AMP @MAX. (approx. 300watt) 
  
