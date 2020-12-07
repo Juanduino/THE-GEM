@@ -21,7 +21,7 @@
  
  One controller can inject current into 4 seperate channels of up to 8 amp per channel.  (note: The white LED´s heats up faster compared to red´s and blues.)
  
- Each red string is driven @MAX 1500mA, so 3 red amp per GEM. The Blues is driven @MAX 2000mA, which equals a total of (3red + 4blue + 1.4white = 8.4 AMP) x 3 boards per controller = 25,2 AMP @MAX. (approx. 300watt) 
+
  
  The boards is designed, so that they can be put in a line. That is, the 3 boards will be parrallel connected and is internally routed to withstand the needed current flow.
  
