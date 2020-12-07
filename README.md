@@ -73,4 +73,4 @@ Inside the lamp another 3 eg. 60mm fans can be mounted. This all  depennds on th
  
 Added 4 x MAX31725MTA+T temperature sensor on I2C bus. (up to 150C). (https://datasheets.maximintegrated.com/en/ds/MAX31725.pdf)
 
- ![Enclosure](https://github.com/Juanduino/THE-GEM/blob/main/Images/TOP2.jpg)
+ ![TOP2](https://github.com/Juanduino/THE-GEM/blob/main/Images/TOP2.jpg)
