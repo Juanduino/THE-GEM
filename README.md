@@ -2,6 +2,17 @@
 
  State of the art GROW RAYDIATOR [light/heatsource] w. current injection 25-30amp
  
+ FEATURES: 
+ 
+ CREE XLAMP LED´s
+ 
+ 4 x MAX31725 temperature sensors
+ 
+ 4 x 12v PWM FAN (4pin) connectors.
+ 
+ 4 x individually controlled strings w. current sensor. (40amp rated mosfets).
+ 
+ 
   ![TOP](https://github.com/Juanduino/THE-GEM/blob/main/Images/GEM_perspective.PNG)
  
  This is a PAR light project based on the high-current controller M4SUBDRV (https://github.com/Juanduino/THE-DIMMER_M4SDRV_V1)
