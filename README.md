@@ -1,5 +1,8 @@
 # THE GEM
+
  State of the art GROW LED light w. current injection 25-30amp
+ 
+  ![TOP](https://github.com/Juanduino/THE-GEM/blob/main/Images/GEM_perspective.PNG)
  
  This is a PAR light project based on the high-current controller M4SUBDRV (https://github.com/Juanduino/THE-DIMMER_M4SDRV_V1)
  
