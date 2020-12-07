@@ -17,7 +17,9 @@
  
  This is a PAR light project based on the high-current controller M4SUBDRV (https://github.com/Juanduino/THE-DIMMER_M4SDRV_V1)
  
- The CREE XLAMP LED´s is one of the most advanced horticultural light emitters on the market. They have a huge µmol/watt output. (Source: https://www.cree.com/led-components/media/documents/CreeXLampHorticultureFeatureSheet.pdf)
+ The CREE XLAMP LED´s is one of the most advanced horticultural light emitters on the market. They have a huge µmol/watt output. 
+ 
+ (Source: https://www.cree.com/led-components/media/documents/CreeXLampHorticultureFeatureSheet.pdf)
  
  One controller can inject current into 4 seperate channels of up to 8 amp per channel.  (note: The white LED´s heats up faster compared to red´s and blues.)
  
