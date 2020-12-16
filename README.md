@@ -52,7 +52,7 @@ By introducing CAN (Controller Area Network) to the "intelligent" GEM/lamps, and
 
 A larger version, without the possibility or need to connect smaller Gem´s. approx 400w (MAX) 
 
- ![TOP](https://github.com/Juanduino/THE-GEM/blob/main/Images/GemX4_back.PNG)
+ ![TOP](https://github.com/Juanduino/THE-GEM/blob/main/Images/x4.PNG)
  
  Changelog:
  
