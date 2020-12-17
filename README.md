@@ -36,7 +36,7 @@
  Because the controller can be connected to a CAN (Controller Area Network) and USB, you can monitor and control each string/color (Red, Blue, White)
 
  
- ![TOP](https://github.com/Juanduino/THE-GEM/blob/main/Images/TOP.PNG)
+ ![TOP](https://github.com/Juanduino/THE-GEM/blob/main/Images/Almost.PNG)
  
  HEAT CIRCULATION
  
